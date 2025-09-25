@@ -1,6 +1,7 @@
 # VLAN Changer
 
 A modern Windows app for managing VLANs and port modes on Cisco switches. Features live interface status, secure credential storage, and a responsive UI. Easily change VLANs or port modes—no CLI needed. Build as a portable .exe for any PC.
+![vlan_changer](https://github.com/user-attachments/assets/b00d4d64-2329-456a-a680-e53cb6afd469)
 
 ## Features
 - One-click VLAN and port mode changes
