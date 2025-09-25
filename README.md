@@ -37,5 +37,8 @@ pyinstaller --onefile --noconsole --icon="media/network.ico" "vlan changer.py"
 - Enter switch IP, username, and password.
 - Manage VLANs and port modes easily.
 
+<<<<<<< HEAD
 ## License
 MIT
+=======
+>>>>>>> 75e89937c4b7713ed4b07b4355c7aad06a261492
